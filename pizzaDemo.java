@@ -17,7 +17,7 @@ public class PizzaDemo {
    
    dominos.setToppings(mytoppings);
    System.out.println(dominos.getPrice());
-   System.out.println(dominos.getToppings());
+   System.out.println(dominos.getToppings());//new topping hassan
      	}
 	
 	}
